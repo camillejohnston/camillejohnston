@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Camille Johnston. I'm a PhD candidate in Psychology and Neuroscience, as well as an R enthusiast and data storyteller.
+
+See my workshop on text analysis [here](https://github.com/TU-Coding-Outreach-Group/cog_summer_workshops_2023/tree/master/text_analysis)
 <!--
 **camillejohnston/camillejohnston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
